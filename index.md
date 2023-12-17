@@ -7,3 +7,7 @@
 ```
 print("Hello World!")
 ```
+
+- [X] Learn HTML
+- [X] Learn CSS
+- [ ] Learn JavaScript
